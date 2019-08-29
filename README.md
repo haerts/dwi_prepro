@@ -2,7 +2,7 @@
 Scripts used for preprocessing of multi-shell HARDI DWI data of brain tumor patients and healthy control subjects in the following papers:
 * Aerts H., Schirner M., Jeurissen B., Van Roost D., Achten E., Ritter P., & Marinazzo D. (2018). Modeling brain dynamics in brain tumor patients using The Virtual Brain. eNeuro 28 May 2018, 5 (3) ENEURO.0083-18.2018; https://doi.org/10.1523/ENEURO.0083-18.2018.
 * Aerts H., Schirner M., Dhollander T., Jeurissen B., Achten E., Van Roost D., Ritter P., & Marinazzo D. (2019). Modeling brain dynamics after tumor resection using The Virtual Brain. biorXiv.
-* Aerts H., Dhollander T., & Marinazzo D. (2019). Evaluating the performance of 3-tissue constrained spherical deconvolution pipelines for within-tumor tractography. biorXiv; https://doi.org/10.1101/629873.
+* Aerts H., Dhollander T., & Marinazzo D. (2019). Evaluating the performance of 3-tissue constrained spherical deconvolution pipelines for within-tumor tractography. biorXiv; https://doi.org/10.1101/629873 (up until distortion correction).
 
 The scripts use a combination of MRtrix3 (Tournier et al. 2019, biorXiv) and FSL (FMRIB’s Software Library; Jenkinson et al., 2012, NeuroImage; version 5.0.9) commands. The majority of scripts are created to run on HPC infrastructure, with the exception of 2 scripts that run locally (as indicated in the main script).
 
